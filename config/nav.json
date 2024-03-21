@@ -8,13 +8,13 @@
 				"tab_name": "新闻热点",
 				"upper_right_corner": {
 					"title": "热榜资讯汇总>>>",
-					"url": "https://www.fre123.com/news"
+					"url": "https://www.haoyue99.top/news"
 				},
 				"details": [
 					{
 						"title": "FRE123 新闻热榜",
-						"ori_url": "https://www.fre123.com/news",
-						"url": "https://www.fre123.com/news",
+						"ori_url": "https://www.haoyue99.top/news",
+						"url": "https://www.haoyue99.top/news",
 						"icon": "https://img.fre123.com/i/2024/01/18/65a81a0370405.jpg",
 						"description": "FRE123 新闻热榜汇集各平台技术热点资讯，助您快速了解实时资讯",
 						"suffix": false,
@@ -22,8 +22,8 @@
 					},
 					{
 						"title": "FRE123 技术热榜",
-						"ori_url": "https://www.fre123.com/tech",
-						"url": "https://www.fre123.com/tech",
+						"ori_url": "https://www.haoyue99.top/tech",
+						"url": "https://www.haoyue99.top/tech",
 						"icon": "https://img.fre123.com/i/2024/01/18/65a819ea7d80f.jpg",
 						"description": "FRE123 技术热榜汇集各平台技术热点资讯，助您快速了解实时资讯",
 						"suffix": false,
@@ -31,8 +31,8 @@
 					},
 					{
 						"title": "FRE123 精选周刊",
-						"ori_url": "https://www.fre123.com/weekly",
-						"url": "https://www.fre123.com/weekly",
+						"ori_url": "https://www.haoyue99.top/weekly",
+						"url": "https://www.haoyue99.top/weekly",
 						"icon": "https://img.fre123.com/i/2024/01/18/65a81a125a343.jpg",
 						"description": "这是老胡储物柜为您收集的前后端技术周刊精选推荐信息流。这里提供技术思考、开发指南、编程实践，开源项目，架构探索以及最新的周刊信息流。深耕你的编程知识，提升你的技术实力",
 						"suffix": false,
@@ -41,7 +41,7 @@
 					{
 						"title": "微博热搜",
 						"ori_url": "https://s.weibo.com/top/summary",
-						"url": "https://www.fre123.com/news/weibo",
+						"url": "https://www.haoyue99.top/news/weibo",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27339b3b8.png",
 						"description": "与世界分享你的瞬间 ",
 						"suffix": false,
@@ -50,8 +50,8 @@
 					{
 						"title": "今日头条",
 						"ori_url": "https://www.toutiao.com/",
-						"url": "https://www.fre123.com/news/toutiao",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f276c1711f.png",
+						"url": "https://www.haoyue99.topnews/toutiao",
+						"icon": "https://img.haoyue99.top/i/2023/12/05/656f276c1711f.png",
 						"description": "个性化资讯推荐",
 						"suffix": false,
 						"is_show": true
@@ -59,7 +59,7 @@
 					{
 						"title": "抖音热点",
 						"ori_url": "https://www.douyin.com/hot",
-						"url": "https://www.fre123.com/news/douyin",
+						"url": "https://www.haoyue99.top/news/douyin",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27e4dccaa.png",
 						"description": "发现身边的新鲜事",
 						"suffix": false,
@@ -68,7 +68,7 @@
 					{
 						"title": "腾讯新闻",
 						"ori_url": "https://news.qq.com/",
-						"url": "https://www.fre123.com/news/teng_xun_xin_wen",
+						"url": "https://www.haoyue99.top/news/teng_xun_xin_wen",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f2809bfa0f.png",
 						"description": "中国最大新闻平台",
 						"suffix": false,
@@ -77,7 +77,7 @@
 					{
 						"title": "微信热文",
 						"ori_url": "https://tophub.today/n/WnBe01o371",
-						"url": "https://www.fre123.com/news/douywei_xin_re_wenin",
+						"url": "https://www.haoyue99.top/news/douywei_xin_re_wenin",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f469aecf87.png",
 						"description": "热门文章与资讯推荐",
 						"suffix": false,
@@ -86,7 +86,7 @@
 					{
 						"title": "ReadHub",
 						"ori_url": "https://readhub.cn/",
-						"url": "https://www.fre123.com/news/readhub",
+						"url": "https://www.haoyue99.top/news/readhub",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f410bee9c5.png",
 						"description": "全球科技新闻聚合",
 						"suffix": false,
@@ -95,7 +95,7 @@
 					{
 						"title": "抽屉热榜",
 						"ori_url": "https://dig.chouti.com/",
-						"url": "https://www.fre123.com/news/chouti",
+						"url": "https://www.haoyue99.topnews/chouti",
 						"icon": "https://img.fre123.com/i/2023/12/07/65716d24e228f.png",
 						"description": "热门内容，一网打尽",
 						"suffix": false,
